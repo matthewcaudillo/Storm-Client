@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>Storm Client - Eaglercraft 1.12</title>
+<style>
+  body, html {
+    margin: 0; padding: 0; overflow: hidden;
+    height: 100%; width: 100%;
+  }
+  #mainMenu {
+    position: fixed;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: url('https://media.assettype.com/afkgaming%2F2023-05%2F982cbf0c-639d-4c38-a0a0-c1a78b7248f4%2Fimage.jfif?auto=format%2Ccompress&dpr=1.0&w=1200') no-repeat center center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    color: white;
+    text-shadow: 0 0 5px black;
+  }
+  #title {
+    font-size: 4em;
+    font-weight: bold;
+  }
+</style>
+</head>
+<body>
+  <div id="mainMenu">
+    <div id="title">Storm Client</div>
+  </div>
+
+  <script>
+    // Basic JavaScript placeholder for future mod menu and hacks
+    console.log("Storm Client loaded");
+  </script>
+</body>
+</html>
